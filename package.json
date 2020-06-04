@@ -1,0 +1,34 @@
+{
+  "name": "ecomfront",
+  "version": "1.0.0",
+  "description": "ecommerce platform frontend repo , reactjs with nextjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChaTbiM/ecomFront.git"
+  },
+  "keywords": [
+    "ecommerce",
+    "frontend",
+    "javascript",
+    "reactjs",
+    "nextjs"
+  ],
+  "author": "chatbi mustapha & tarek arar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChaTbiM/ecomFront/issues"
+  },
+  "homepage": "https://github.com/ChaTbiM/ecomFront#readme",
+  "dependencies": {
+    "next": "^9.4.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
